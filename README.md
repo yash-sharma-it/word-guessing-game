@@ -1,2 +1,9 @@
-# word-guessing-game
-It is a console based word guessing game , which consist of different level of difficulties and give hints and show the number of attempts the user takes to guess the word
+# Python Mini Projects
+
+This repository contains beginner-friendly Python projects I built while learning Python:
+  
+2. **Word Guessing Game** – A guessing game with Easy, Medium, and Hard levels. Shows hints, reveals correct letters, and counts attempts.
+
+---
+
+**Author:** Yash Sharma
